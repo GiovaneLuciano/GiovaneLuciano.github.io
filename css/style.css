@@ -189,3 +189,6 @@ a {
 .styled:active {
    background-color: blue;
 }
+.letras1 {
+    font-weight: bold;
+}
